@@ -19,14 +19,14 @@ This project is created as part of an assignment. It is a simple **Login and Sig
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - React.js (Create React App)
 - React Router
 - CSS (custom styling, responsive)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 src/
 components/
 FormCard.js
@@ -44,7 +44,7 @@ App.css
 
 ---
 
-## ▶️ Getting Started
+## Getting Started
 
 1. Clone this repository:
    ```bash
