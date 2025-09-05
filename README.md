@@ -55,3 +55,15 @@ cd login-signup-assignment
 npm install
 
 npm start
+
+## Screenshots
+
+### Login Page
+![Login Screenshot](./screenshots/login.png)
+
+### Signup Page
+![Signup Screenshot](./screenshots/signup.png)
+
+##  Live Demo
+[Click here to view](https://mohd-rihan-101.github.io/signup-login-assignment/)
+
