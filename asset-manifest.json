@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/signup-login-assignment/static/css/main.1fd11fbc.css",
+    "main.js": "/signup-login-assignment/static/js/main.3eb6846b.js",
+    "index.html": "/signup-login-assignment/index.html",
+    "main.1fd11fbc.css.map": "/signup-login-assignment/static/css/main.1fd11fbc.css.map",
+    "main.3eb6846b.js.map": "/signup-login-assignment/static/js/main.3eb6846b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fd11fbc.css",
+    "static/js/main.3eb6846b.js"
+  ]
+}
