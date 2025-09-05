@@ -48,7 +48,7 @@ App.css
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/login-signup-assignment.git
+    git clone https://github.com/your-username/signup-login-assignment.git
 
 cd login-signup-assignment
 
