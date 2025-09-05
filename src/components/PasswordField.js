@@ -15,14 +15,7 @@ export default function PasswordField({ label, name, value, onChange, error }) {
           placeholder=""
           autoComplete="off"
         />
-        {/* <button
-          type="button"
-          className="eye-btn"
-          aria-label={show ? "Hide password" : "Show password"}
-          onClick={() => setShow((s) => !s)}
-        >
-          {show ? "🙈" : "👁️"}
-        </button> */}
+
       </div>
       {error && <div className="error-text">{error}</div>}
     </div>
